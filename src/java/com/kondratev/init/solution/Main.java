@@ -10,7 +10,7 @@ public class Main {
       LineExtractor lineExtractor;
       while ((tempLine = reader.readLine()) != null) {
         lineExtractor = new LineExtractor(tempLine);
-        writer.write(lineExtractor.transform()+"\n");
+        writer.write(lineExtractor.transform() + "\n");
       }
       System.out.println("All complete.");
     } catch (IOException e) {
