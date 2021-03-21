@@ -1,5 +1,3 @@
-Init Algo, November 2020  
+Test task for Digital Design, march 2021  
 _  
-**Kondratev Denis**  
-Training getJavaJob  
-http://www.getjavajob.com  
+**Kondratev Denis**   
